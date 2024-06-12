@@ -7,10 +7,11 @@ I'm full stack developer since 2019. Nice to meet you, bro😎
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Some stats
+## My indicators
 
-![Codewars](https://github.r2v.ch/codewars?user=kekovina&stroke=COLOR&theme=gradient)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kekovina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Codewars](https://www.codewars.com/users/kekovina/badges/large)
+<br>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kekovina&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
   <tr>
