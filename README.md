@@ -10,10 +10,14 @@ I'm full stack developer since 2019. Nice to meet you, bro😎
 ## My indicators
 
 ![Codewars](https://www.codewars.com/users/kekovina/badges/large)
-<br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kekovina&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <table>
+  <tr>
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kekovina&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
+
+  </tr>
   <tr>
     <td>
       
